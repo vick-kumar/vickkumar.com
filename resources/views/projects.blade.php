@@ -36,6 +36,7 @@
                                         <ul>
                                             <li>PHP -> Laravel</li>
                                             <li>Bootstrap</li>
+                                            <li>Hosted using Laravel Forge</li>
                                         </ul>
                                         </p>
                                         <p>
