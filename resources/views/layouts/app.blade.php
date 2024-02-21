@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-    <meta name="description" content="Computer Science Degree Student, Computer Science Blog and Projects." />
+    <meta name="description" content="Vick Kumar is a computer science student with over 5 years experience in customer service and information technology." />
     <meta name="author" content="Vick Kumar" />
     <title>Vick Kumar</title>
     <!-- Favicon-->
