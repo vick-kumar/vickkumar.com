@@ -38,6 +38,7 @@
                                             <li>PHP -> Laravel</li>
                                             <li>Bootstrap</li>
                                             <li>Hosted using Laravel Forge</li>
+                                            <li>WordPress used for Blog</li>
                                         </ul>
                                         </p>
                                         <p>
